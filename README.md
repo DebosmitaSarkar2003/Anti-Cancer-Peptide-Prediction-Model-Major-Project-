@@ -1,2 +1,2 @@
 # Anti-Cancer-Peptide-Prediction-Model-Major-Project-
-Machine learning-based Anti-Cancer Peptide (ACP) prediction model using MLP and data augmentation techniques. Trained on ACP740 &amp; ACP240 datasets with feature engineering, AAindex descriptors, and cross-validation to improve accuracy and robustness in cancer therapy research.
+My B.Tech major project on Anti-Cancer Peptide prediction using ML (MLP, data augmentation, feature engineering). Trained on ACP740 & ACP240 datasets. Boosts ACP prediction accuracy. Research paper based on this work has also been published.
